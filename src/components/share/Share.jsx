@@ -7,7 +7,7 @@ function Share() {
         <div className="shareWrapper">
             <div className="shareTop">
                 <img className='shareProfileImg' src="/Assets/person/1.jpeg" alt="" />
-                <input placeholder="what's In your mind Safak?" 
+                <input placeholder="what's In your mind Sophie?" 
                 className='shareInput'/>
             </div>
             <hr className='shareHr'/>
